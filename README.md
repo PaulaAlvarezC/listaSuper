@@ -1,0 +1,18 @@
+# Desafío 2 - Coder House
+
+**Crear una aplicación para agregar, eliminar, elementos como si fuera una lista de supermercado**
+ 
+npm install 
+
+# Android
+
+Para emular npm run android 
+
+ <img src="https://lh3.googleusercontent.com/FygOd2YQQsmyF_QiZanBy6X7GpNxWrcMobTKQV0DpRQbLOqzvLw5QbWvYoqXJQFKqIGvZWBTbFx8Fpb9DsV5bGQHsQ7ElqzbbhRZr7liMdoFsGO2bYtUZhfeJxHbO0CI-3rw6w5TPrJWbOeZsO5LD4EiCX03qWOaJTQXNnXLwJA0D4HpauDK01Nd2jpVwGbxuofsZ4PvnwPkKckr8Z72Ifc6hodFqzUKTWZGORyM7RT-elKgAiY5Gr5536lBD5bnXMl4kYQCzghm-hcd6aiufq7zs_GlD3txMnm9uwVXQRwo0uDIVNWLvHhvEgWMjQIGXFrHgRG9K_yOMckBJzy2d2xnsFgZTQVE89nw0f0yaX1Rh-vr9in7Mp59gsyGgtqd3Y3kqw6HDEqdSXYr4wW8mw8pM2i-oHCv1IBj5mTzAZOO4lN7F8K3YeiK13J8xHU1rJUVLjhe-TdG3iFQKdpWIJEqE3n92DG5y6i_zfIqfPEiLY3UUrCTtfDKsk8DiUDnV6X8fSuaJllBXxwXfPA0Srxo7Bi6OwnFQLVPfUPEiQ62CVVQdXCcRZBc6wZeGrpia78rd3DYg1257rIPQmbA_nvuira-klxcjkKW0pNuVU7U61gQ9Rf1jz_FAdKaQuYBTR-_gO8iBavXkrzoQNer4kO7SC_f3OyLHxK7H4FjoAFHV5IVfbbb1kNkMozL-pwttoN0eHL0e73RT92VtmlstCs=w658-h1354-no?authuser=0" width="200">
+
+
+
+# IOS
+
+Para emular npm run ios
+ 
